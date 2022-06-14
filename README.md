@@ -17,6 +17,7 @@ The UI was developed using angular
 
 # Delete Add an employee
 
+![home4](https://user-images.githubusercontent.com/57743411/173599547-efbd22eb-25a2-4d0a-a16b-66eb4827605a.png)
 
 
 # Search for an employee
