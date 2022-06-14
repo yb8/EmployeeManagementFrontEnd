@@ -12,7 +12,7 @@ The UI was developed using angular
 
 
 # Edit Add an employee
-
+![home3](https://user-images.githubusercontent.com/57743411/173599398-4a851f57-2240-4f19-9f0f-9cccac357edc.png)
 
 
 # Delete Add an employee
