@@ -21,3 +21,5 @@ The UI was developed using angular
 
 
 # Search for an employee
+
+![home5](https://user-images.githubusercontent.com/57743411/173599744-a277195c-c173-495c-bf6e-da940f2a20b6.png)
