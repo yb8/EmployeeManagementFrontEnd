@@ -1,7 +1,8 @@
 # Employeemanagerapp
 
 This is a simple project to manage employees where you can add, update or delete an employee or search for one.
-The UI was developed using angular and it is connected to the backend and to a MySQL database.
+The UI was developed using angular and it is connected to the backend and to a MySQL database. 
+BackEnd repository : https://github.com/yb8/EmployeeManagementBackEnd .
 
 # Overview
 ![home1](https://user-images.githubusercontent.com/57743411/173598484-d9f61c07-64cf-49e5-929a-adfd2a51817d.png)
